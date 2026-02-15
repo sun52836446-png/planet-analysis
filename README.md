@@ -20,7 +20,8 @@ Python, Pandas, Matplotlib, Seaborn
 ✔ Visualization dashboard  
 
 ## Sample Output
-(Add images here after upload)
+<img width="1200" height="600" alt="年度方法分组折线图" src="https://github.com/user-attachments/assets/696f0583-86a6-4af2-9e1c-2e2364553976" />
+
 
 ## Run Locally
 pip install -r requirements.txt  
